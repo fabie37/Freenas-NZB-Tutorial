@@ -1,5 +1,5 @@
 # Freenas-NZB-Tutorial
-Getting Radarr and SAB to actually work on freenas using the default plugins.
+Getting Radarr and SABnzbd to actually work on freenas using the default plugins.
 **Version:** FreeNAS-11.3-U3.2
 
 ## Freenas, Jails and... Permissions.
